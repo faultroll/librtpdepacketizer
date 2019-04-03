@@ -1,0 +1,24 @@
+# python
+venv/
+*.pyc
+wsgi_env/
+.idea/
+.pytest_cache/
+
+# vim
+*.swp
+*.swo
+*.swn
+*.swm
+
+# bin
+*.bin
+*.o
+*.dylib
+*.so
+*.so.*
+*.a
+
+# data
+*.dat
+
